@@ -1,0 +1,126 @@
+.body0 {
+  background-color: black;
+}
+
+.text0 {
+  margin-left: 704px;
+  font-size: 50px;
+  margin-top: 5px;
+  color: white;
+}
+
+.text1 {
+  color: white;
+  margin-bottom: 201px;
+  margin-left: 850px;
+  font-size: 45px;
+}
+
+.text2 {
+  color: white;
+  margin-bottom: 300px;
+  margin-left: 825px;
+  font-size: 45px;
+}
+
+.text3 {
+  color: white;
+  margin-bottom: 200px;
+  margin-left: 285px;
+  font-size: 45px;
+}
+
+.text4 {
+  color: white;
+  margin-bottom: 300px;
+  margin-left: 1300px;
+  font-size: 45px;
+}
+.container0 {
+  height: 60px;
+}
+
+.container1 {
+  margin-top: 30px;
+  font-size: 80px;
+}
+
+.flex0 {
+  display: flex;
+  background-color: gray;
+  margin: 35px;
+  border: solid 10px;
+  border-radius: 20px;
+  border-color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 258px;
+  margin-top: -187px;
+  margin-left: 8px;
+}
+
+.flex1 {
+  display: flex;
+  background-color: gray;
+  margin: 35px;
+  border: solid 10px;
+  border-radius: 20px;
+  border-color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 58%;
+  height: 258px;
+  margin-top: -285px;
+  margin-left: 440px;
+}
+
+.flex2 {
+  display: flex;
+  background-color: gray;
+  margin: 35px;
+  border: solid 10px;
+  border-radius: 20px;
+  border-color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 5800px;
+  margin-top: 0px;
+  margin-right: 1035px;
+}
+
+.flex3 {
+  display: flex;
+  background-color: gray;
+  margin: 35px;
+  border: solid 10px;
+  border-radius: 20px;
+  border-color: white;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  height: 3972px;
+  margin-top: -5836px;
+  margin-left: 1014px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
